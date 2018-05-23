@@ -1,0 +1,8 @@
+principal = "tony"
+lunch_break = 1800
+
+airtable_api_key = ""
+airtable_base_key = ""
+
+table_name_timesheet = 'timesheet'
+table_name_state = 'state'
